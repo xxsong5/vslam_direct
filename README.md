@@ -1,1 +1,0 @@
-#vslam_direct
